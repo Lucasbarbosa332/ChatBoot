@@ -22,11 +22,11 @@ Tratamento Baseado em Tópicos: Direcione conversas para tópicos específicos e
 
 # Exemplo de Imagens
 
-<img src="https://github.com/Lucasbarbosa332/ChatBoot/blob/main/chat%20bot%20phyton/components/images/clothing.gif?raw=true" width="50%" alt="Clothing GIF">
+<img src="https://github.com/Lucasbarbosa332/ChatBoot/blob/main/chat%20bot%20phyton/components/images/clothing.gif?raw=true" width="30%" alt="Clothing GIF">
 
-<img src="https://github.com/Lucasbarbosa332/ChatBoot/blob/main/chat%20bot%20phyton/components/images/demo_gui.gif?raw=true" width="50%" alt="Demo GUI GIF">
+<img src="https://github.com/Lucasbarbosa332/ChatBoot/blob/main/chat%20bot%20phyton/components/images/demo_gui.gif?raw=true" width="30%" alt="Demo GUI GIF">
 
-<img src="https://raw.githubusercontent.com/Lucasbarbosa332/ChatBoot/8c0a9492254d54a9ab88ffe77edf02b16355e3cc/chat%20bot%20phyton/components/images/ChatBot%20AI.svg" width="50%" alt="ChatBot AI SVG">
+<img src="https://raw.githubusercontent.com/Lucasbarbosa332/ChatBoot/8c0a9492254d54a9ab88ffe77edf02b16355e3cc/chat%20bot%20phyton/components/images/ChatBot%20AI.svg" width="30%" alt="ChatBot AI SVG">
 
 
 
