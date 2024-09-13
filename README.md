@@ -27,14 +27,9 @@ Tratamento Baseado em Tópicos: Direcione conversas para tópicos específicos e
 
 ## Instalação
 
-Para instalar a biblioteca `chatbotAI`, você pode usar o `pip`, o gerenciador de pacotes do Python. Execute o seguinte comando em seu terminal:
-
-
->>> from chatbot import demo
->>> demo()
 Hi, how are you?
 > i'm fine
 Nice to know that you are fine  
 > quit
 Thank you for talking with me.
->>> 
+
