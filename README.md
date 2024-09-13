@@ -1,8 +1,5 @@
 # ChatBotAI
-ChatBoot em Python 
 
-
-# Descrição 
 
 # Chatbot AI em Python: Criação de um Assistente Inteligente com Código Mínimo
 
