@@ -28,3 +28,27 @@ Tratamento Baseado em Tópicos: Direcione conversas para tópicos específicos e
 ## Instalação
 
 Instale a partir do PyPI: pip install chatbotAI
+
+
+
+
+## Aqui está um exemplo de como integrar a API de pesquisa da Wikipedia em um chatbot:
+
+```python
+from chatbot import Chat, register_call
+import wikipedia
+
+@register_call("whoIs")
+def who_is(session, query):
+    try:
+        return wikipedia.summary(query)
+    except Exception:
+        for new_query in wikipedia.search(query):
+            try:
+                return wikipedia.summary(new_query)
+            except Exception:
+                pass
+    return "I don't know about " + query
+
+first_question = "Hi, how are you?"
+Chat("examples/Example.template").converse(first_question)
