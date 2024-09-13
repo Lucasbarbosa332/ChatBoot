@@ -29,16 +29,4 @@ Tratamento Baseado em Tópicos: Direcione conversas para tópicos específicos e
 
 Para instalar a biblioteca `chatbotAI`, você pode usar o `pip`, o gerenciador de pacotes do Python. Execute o seguinte comando em seu terminal:
 
-```bash
-pip install chatbotAI
-```python
-import requests
 
-def obter_dados(url):
-    resposta = requests.get(url)
-    dados = resposta.json()
-    return dados
-
-url = "https://api.example.com/dados"
-dados = obter_dados(url)
-print(dados)
