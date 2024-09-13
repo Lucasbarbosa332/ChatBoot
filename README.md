@@ -31,6 +31,7 @@ Instale a partir do PyPI: pip install chatbotAI
 
 pip install wikipedia-api chatbot
 
+![--------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 ## Aqui está um exemplo de como integrar a API de pesquisa da Wikipedia em um chatbot:
@@ -53,6 +54,7 @@ def who_is(session, query):
 
 first_question = "Hi, how are you?"
 Chat("examples/Example.template").converse(first_question)
+
 
 
 
