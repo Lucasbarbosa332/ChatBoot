@@ -20,9 +20,14 @@ Memória: Armazene informações relevantes de conversas anteriores para melhora
 Comutação Condicional: Alterne entre diferentes modos de operação e respostas com base em condições específicas ou contextos de conversa.
 Tratamento Baseado em Tópicos: Direcione conversas para tópicos específicos e mantenha o diálogo relevante e focado.
 
-<img width=100% src="https://github.com/Lucasbarbosa332/ChatBoot/blob/main/chat%20bot%20phyton/components/images/clothing.gif?raw=true"></img>
-<img width=100% src=""></img>
-<img width=100% src="https://raw.githubusercontent.com/Lucasbarbosa332/ChatBoot/8c0a9492254d54a9ab88ffe77edf02b16355e3cc/chat%20bot%20phyton/components/images/ChatBot%20AI.svg"></img>
+# Exemplo de Imagens
+
+<img src="https://github.com/Lucasbarbosa332/ChatBoot/blob/main/chat%20bot%20phyton/components/images/clothing.gif?raw=true" width="50%" alt="Clothing GIF">
+
+<img src="https://github.com/Lucasbarbosa332/ChatBoot/blob/main/chat%20bot%20phyton/components/images/demo_gui.gif?raw=true" width="50%" alt="Demo GUI GIF">
+
+<img src="https://raw.githubusercontent.com/Lucasbarbosa332/ChatBoot/8c0a9492254d54a9ab88ffe77edf02b16355e3cc/chat%20bot%20phyton/components/images/ChatBot%20AI.svg" width="50%" alt="ChatBot AI SVG">
+
 
 
 ## Instalação
