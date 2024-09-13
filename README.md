@@ -27,9 +27,4 @@ Tratamento Baseado em Tópicos: Direcione conversas para tópicos específicos e
 
 ## Instalação
 
-Hi, how are you?
-> i'm fine
-Nice to know that you are fine  
-> quit
-Thank you for talking with me.
-
+Instale a partir do PyPI: pip install chatbotAI
