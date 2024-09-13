@@ -23,10 +23,14 @@ Memória: Armazene informações relevantes de conversas anteriores para melhora
 Comutação Condicional: Alterne entre diferentes modos de operação e respostas com base em condições específicas ou contextos de conversa.
 Tratamento Baseado em Tópicos: Direcione conversas para tópicos específicos e mantenha o diálogo relevante e focado.
 
-## Como Usar
 
-Aqui está um exemplo de código para começar:
 
+## Instalação
+
+Para instalar a biblioteca `chatbotAI`, você pode usar o `pip`, o gerenciador de pacotes do Python. Execute o seguinte comando em seu terminal:
+
+```bash
+pip install chatbotAI
 ```python
 import requests
 
