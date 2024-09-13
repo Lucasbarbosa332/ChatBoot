@@ -23,6 +23,9 @@ Memória: Armazene informações relevantes de conversas anteriores para melhora
 Comutação Condicional: Alterne entre diferentes modos de operação e respostas com base em condições específicas ou contextos de conversa.
 Tratamento Baseado em Tópicos: Direcione conversas para tópicos específicos e mantenha o diálogo relevante e focado.
 
+<img width=100% src=""></img>
+<img width=100% src=""></img>
+<img width=100% src=""></img>
 
 
 ## Instalação
