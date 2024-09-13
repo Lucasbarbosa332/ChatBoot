@@ -29,6 +29,7 @@ Tratamento Baseado em Tópicos: Direcione conversas para tópicos específicos e
 
 Instale a partir do PyPI: pip install chatbotAI
 
+pip install wikipedia-api chatbot
 
 
 
@@ -54,13 +55,4 @@ first_question = "Hi, how are you?"
 Chat("examples/Example.template").converse(first_question)
 
 
-##
 
->>> from chatbot import demo
->>> demo()
-Hi, how are you?
-> i'm fine
-Nice to know that you are fine  
-> quit
-Thank you for talking with me.
->>> 
